@@ -22,7 +22,7 @@ Test v0.022：头图来源：Pixiv：72725286
 服务端：
 
 ```bash
-wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
+wget https://raw.githubusercontent.com/yeyuehuo/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
 ```
 
